@@ -164,10 +164,10 @@ El script [`empresa.sql`](empresa.sql) incluye datos iniciales:
 
 ## 👥 Autores
 
-- Bosch
-- Antequera
-- Farías
-- Arce
+- Gaspar Bosch
+- Gabriel Lautaro Antequera
+- Alexis Farías
+- Joaquin Arce
 
 **Universidad Nacional de Río Cuarto**  
 Base de Datos - 2do Año - 2025
